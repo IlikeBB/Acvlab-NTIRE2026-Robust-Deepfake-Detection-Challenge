@@ -1,0 +1,1 @@
+# Acvlab-NTIRE2026-Robust-Deepfake-Detection-Challenge

@@ -1,6 +1,4 @@
 # Acvlab-NTIRE2026-Robust-Deepfake-Detection-Challenge
-# M1StrictFull Epoch0 Repro Bundle
-
 Historical public LB: `0.8568`
 
 This bundle is for reproducing the historical submission content of the single-model run recorded as `m1strictfull_e0_0305_userlb_08568`.

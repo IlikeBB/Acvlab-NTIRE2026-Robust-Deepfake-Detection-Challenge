@@ -7,12 +7,12 @@ This bundle is for reproducing the historical submission content of the single-m
 
 - `code/`
   - Minimal code snapshot used for the verified reproduction run.
-- `/checkpoint/best_auc.pt`
-- `/run_dir/config.json`
-- `/run_dir/train_20260305-125022.log`
-- `/original_submission/sub_m1strictfull_e0_0305.txt`
-- `/original_submission/sub_m1strictfull_e0_0305.zip`
-- `/verified_repro/`
+- `artifacts/checkpoint/best_auc.pt`
+- `artifacts/run_dir/config.json`
+- `artifacts/run_dir/train_20260305-125022.log`
+- `artifacts/original_submission/sub_m1strictfull_e0_0305.txt`
+- `artifacts/original_submission/sub_m1strictfull_e0_0305.zip`
+- `artifacts/verified_repro/`
   - Reproduction outputs generated and verified on 2026-03-14.
 - `artifacts/supporting_logs/`
   - Includes the historical watch script that links this run to the submission path.

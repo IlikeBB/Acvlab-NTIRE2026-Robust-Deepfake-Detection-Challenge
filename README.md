@@ -1,4 +1,4 @@
-#Select and Detect: Multi-Level Quality Routing for Robust Deepfake Detection
+# Select and Detect: Multi-Level Quality Routing for Robust Deepfake Detection
 <hr>
 # Acvlab-NTIRE2026-Robust-Deepfake-Detection-Challenge
 ## Final Submission Easy Run

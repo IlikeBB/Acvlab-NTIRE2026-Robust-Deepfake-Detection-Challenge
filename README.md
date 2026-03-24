@@ -1,5 +1,6 @@
 # Select and Detect: Multi-Level Quality Routing for Robust Deepfake Detection
 <hr>
+
 ## Final Submission Easy Run
 
 This package is a simplified copy of the original submission package.
